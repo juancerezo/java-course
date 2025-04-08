@@ -1,0 +1,21 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        // {
+        //     "label": "Database: Create new database revision",
+        //     "type": "shell",
+        //     "command": "alembic revision --autogenerate -m '${input:revision_message}'",
+        // },
+        
+    ],
+    "inputs": [
+        // {
+        //     "type": "promptString",
+        //     "id": "revision_message",
+        //     "description": "Revision message",
+        //     "default": "New revision"
+        // }
+    ]
+}
