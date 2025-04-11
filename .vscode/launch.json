@@ -5,12 +5,46 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Command: query",
-            "type": "debugpy",
+            "type": "java",
+            "name": "MainChallenge",
             "request": "launch",
-            "module": "see",
-            "args": ["query", "SELECT * FROM xdr_ti_data WHERE ioc_severity >=6"],
-            "justMyCode": true
+            "mainClass": "MainChallenge",
+            "projectName": "java-course_1af0af04"
+        },
+        {
+            "type": "java",
+            "name": "MainCopy",
+            "request": "launch",
+            "mainClass": "MainCopy",
+            "projectName": "java-course_1af0af04"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java-course_1af0af04"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "java-course_1af0af04"
+        },
+        {
+            "type": "java",
+            "name": "SecondClass",
+            "request": "launch",
+            "mainClass": "SecondClass",
+            "projectName": "java-course_1af0af04"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "java-course_1af0af04"
         },
     ]
 }
