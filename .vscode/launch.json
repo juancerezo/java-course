@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Sum3And5Challenge",
+            "request": "launch",
+            "mainClass": "Sum3And5Challenge",
+            "projectName": "java-course_1af0af04"
+        },
+        {
+            "type": "java",
+            "name": "ForLoopChallenge",
+            "request": "launch",
+            "mainClass": "ForLoopChallenge",
+            "projectName": "java-course_1af0af04"
+        },
+        {
+            "type": "java",
+            "name": "DayOfTheWeekChallenge",
+            "request": "launch",
+            "mainClass": "DayOfTheWeekChallenge",
+            "projectName": "java-course_1af0af04"
+        },
+        {
+            "type": "java",
+            "name": "SecondsAndMinutesChallenge",
+            "request": "launch",
+            "mainClass": "SecondsAndMinutesChallenge",
+            "projectName": "java-course_1af0af04"
+        },
+        {
+            "type": "java",
+            "name": "OveloadedMethodChallenge",
+            "request": "launch",
+            "mainClass": "OveloadedMethodChallenge",
+            "projectName": "java-course_1af0af04"
+        },
+        {
+            "type": "java",
+            "name": "DecimalComparator",
+            "request": "launch",
+            "mainClass": "DecimalComparator",
+            "projectName": "java-course_1af0af04"
+        },
+        {
+            "type": "java",
+            "name": "MethodChallenge",
+            "request": "launch",
+            "mainClass": "MethodChallenge",
+            "projectName": "java-course_1af0af04"
+        },
+        {
+            "type": "java",
             "name": "MainChallenge",
             "request": "launch",
             "mainClass": "MainChallenge",
@@ -45,6 +94,6 @@
             "request": "launch",
             "mainClass": "HelloWorld",
             "projectName": "java-course_1af0af04"
-        },
+        }
     ]
 }
